@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "typed-contract": "1.2.3",
+    "typescript": "1.8.10"
+  },
+  "scripts": {    
+    "test": "node hello.js"
+  }
+}

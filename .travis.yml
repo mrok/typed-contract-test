@@ -1,0 +1,10 @@
+language: node_js
+
+node_js:
+  - "6"
+
+before_script:
+  - ls
+  - ./node_modules/.bin/tsc hello.ts
+  - ls  
+  - ./node_modules/.bin/tsc --version

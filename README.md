@@ -1,1 +1,1 @@
-# contract-test
+Test for importing typec-contract package 
